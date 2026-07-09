@@ -14,5 +14,3 @@ Cap **$4,480 USDC / 4-week period**, split **70% posts ($3,136) / 30% replies ($
 | Wk 4 (27 Jul–2 Aug) |  |  |  |  |  |
 
 **Released:** posts $___ / $3,136 · replies $___ / $1,344 · **period total $___ / $4,480**
-
-_(Copy this block for each subsequent period. 7 periods total, ending ~18 January 2027.)_
