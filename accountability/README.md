@@ -8,7 +8,7 @@ Cap **$4,480 USDC / 4-week period**, split **70% posts ($3,136) / 30% replies ($
 
 | Week | Posts/clips (≥ 7) | Posts met? | Replies (≥ 15/wk) | Replies met? | Evidence |
 | ---- | ----------------: | :--------: | ----------------: | :----------: | -------- |
-| Wk 1 (6–12 Jul) |  |  |  |  |  |
+| Wk 1 (6–12 Jul) | 7 | ✅ | 14 | ⚠️ 14/15 pro-rated | [wk1 links](period-1-wk1-evidence.md) |
 | Wk 2 (13–19 Jul) |  |  |  |  |  |
 | Wk 3 (20–26 Jul) |  |  |  |  |  |
 | Wk 4 (27 Jul–2 Aug) |  |  |  |  |  |
