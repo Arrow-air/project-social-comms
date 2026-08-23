@@ -23,13 +23,13 @@ Posts cleared the floor in all four weeks, so the posts share releases in full. 
 | ---- | ----------------: | :--------: | ----------------: | :----------: | -------- |
 | Wk 1 (3–9 Aug) | 7 | ✅ | 12 | ⚠️ 12/15 pro-rated | [wk1 links](period-2-wk1-evidence.md) |
 | Wk 2 (10–16 Aug) | 7 | ✅ | 19 | ✅ | [wk2 links](period-2-wk2-evidence.md) |
-| Wk 3 (17–23 Aug) | — | — | — | — | in progress |
+| Wk 3 (17–23 Aug) | 7 | ✅ | 16 | ✅ | [wk3 links](period-2-wk3-evidence.md) |
 | Wk 4 (24–30 Aug) | — | — | — | — | not started |
 
-**Released so far:** posts $1,568 / $1,568 · replies $604.80 / $672 · **$2,172.80 of $2,240 for weeks 1–2**
+**Released so far:** posts $2,352 / $2,352 · replies $940.80 / $1,008 · **$3,292.80 of $3,360 for weeks 1–3**
 
-Posts cleared the floor in both weeks, so both weeks release the posts share in full. Replies cleared in week 2 at 19. Week 1 landed 12 against the floor of 15 and pro-rates to $268.80, docking $67.20.
+Posts cleared the floor in all three weeks, so each releases the posts share in full. Replies cleared in weeks 2 and 3 at 19 and 16. Week 1 landed 12 against the floor of 15 and pro-rates to $268.80, docking $67.20, which remains the only shortfall in the period.
 
 Weeks run on US Mountain time (UTC−7), where the account is operated from. Week 2 closes with seven replies published just after midnight UTC on 17 August, which is Sunday evening local. Every boundary in the period is cut on the same basis, not only that one. Period 1 was scored on UTC; the 3 August seam carries no activity in either direction, so nothing is double-counted or dropped by the change.
 
-From Week 1 of this period, a thread continuation under one of Arrow's own posts counts as a post when it carries its own media, and as a reply when it does not. Period 1 named this rule but scored all continuations as replies; Period 2 applies it. Both weeks would have missed the posts floor without it: week 1 stood at 4 posts and 15 replies, week 2 at 3 posts and 23 replies. Where the posts line clears its floor with continuations to spare, the surplus is left on the replies line rather than moved, which is why Week 1 shows 7 posts rather than 9.
+From Week 1 of this period, a thread continuation under one of Arrow's own posts counts as a post when it carries its own media, and as a reply when it does not. Period 1 named this rule but scored all continuations as replies; Period 2 applies it. Weeks 1 and 2 would both have missed the posts floor without it: week 1 stood at 4 posts and 15 replies, week 2 at 3 posts and 23 replies. Week 3 relies on it for one of its seven. Where the posts line clears its floor with continuations to spare, the surplus is left on the replies line rather than moved, which is why Week 1 shows 7 posts rather than 9.
