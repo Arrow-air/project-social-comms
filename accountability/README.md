@@ -24,11 +24,11 @@ Posts cleared the floor in all four weeks, so the posts share releases in full. 
 | Wk 1 (3–9 Aug) | 7 | ✅ | 12 | ⚠️ 12/15 pro-rated | [wk1 links](period-2-wk1-evidence.md) |
 | Wk 2 (10–16 Aug) | 7 | ✅ | 19 | ✅ | [wk2 links](period-2-wk2-evidence.md) |
 | Wk 3 (17–23 Aug) | 7 | ✅ | 16 | ✅ | [wk3 links](period-2-wk3-evidence.md) |
-| Wk 4 (24–30 Aug) | — | — | — | — | not started |
+| Wk 4 (24–30 Aug) | 7 | ✅ | 16 | ✅ | [wk4 links](period-2-wk4-evidence.md) |
 
-**Released so far:** posts $2,352 / $2,352 · replies $940.80 / $1,008 · **$3,292.80 of $3,360 for weeks 1–3**
+**Released:** posts $3,136 / $3,136 · replies $1,276.80 / $1,344 · **period total $4,412.80 / $4,480**
 
-Posts cleared the floor in all three weeks, so each releases the posts share in full. Replies cleared in weeks 2 and 3 at 19 and 16. Week 1 landed 12 against the floor of 15 and pro-rates to $268.80, docking $67.20, which remains the only shortfall in the period.
+Posts cleared the floor in all four weeks, so each releases the posts share in full. Replies cleared in weeks 2, 3 and 4 at 19, 16 and 16. Week 1 landed 12 against the floor of 15 and pro-rates to $268.80, docking $67.20, the period's only shortfall.
 
 Weeks run on US Mountain time (UTC−7), where the account is operated from. Week 2 closes with seven replies published just after midnight UTC on 17 August, which is Sunday evening local. Every boundary in the period is cut on the same basis, not only that one. Period 1 was scored on UTC; the 3 August seam carries no activity in either direction, so nothing is double-counted or dropped by the change.
 
