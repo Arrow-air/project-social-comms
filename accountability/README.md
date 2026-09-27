@@ -33,3 +33,18 @@ Posts cleared the floor in all four weeks, so each releases the posts share in f
 Weeks run on US Mountain time (UTC−7), where the account is operated from. Week 2 closes with seven replies published just after midnight UTC on 17 August, which is Sunday evening local. Every boundary in the period is cut on the same basis, not only that one. Period 1 was scored on UTC; the 3 August seam carries no activity in either direction, so nothing is double-counted or dropped by the change.
 
 From Week 1 of this period, a thread continuation under one of Arrow's own posts counts as a post when it carries its own media, and as a reply when it does not. Period 1 named this rule but scored all continuations as replies; Period 2 applies it. Weeks 1 and 2 would both have missed the posts floor without it: week 1 stood at 4 posts and 15 replies, week 2 at 3 posts and 23 replies. Week 3 relies on it for one of its seven. Where the posts line clears its floor with continuations to spare, the surplus is left on the replies line rather than moved, which is why Week 1 shows 7 posts rather than 9.
+
+## Period 3: 31 August to 27 September 2026
+
+| Week | Posts/clips (≥ 7) | Posts met? | Replies (≥ 15/wk) | Replies met? | Evidence |
+| ---- | ----------------: | :--------: | ----------------: | :----------: | -------- |
+| Wk 1 (31 Aug–6 Sep) | 7 | ✅ | 15 | ✅ | [wk1 links](period-3-wk1-evidence.md) |
+| Wk 2 (7–13 Sep) | 8 | ✅ | 16 | ✅ | [wk2 links](period-3-wk2-evidence.md) |
+| Wk 3 (14–20 Sep) | 7 | ✅ | 15 | ✅ | [wk3 links](period-3-wk3-evidence.md) |
+| Wk 4 (21–27 Sep) | 7 | ✅ | 15 | ✅ | [wk4 links](period-3-wk4-evidence.md) |
+
+**Released:** posts $3,136 / $3,136 · replies $1,344 / $1,344 · **period total $4,480 / $4,480**
+
+Both lines cleared the floor in all four weeks. Weeks are cut on US Mountain time (UTC−6 in September), where the account is operated from. Posts include YouTube, Shorts and Reddit alongside X.
+
+Two classification notes. In week 3, the 15 September continuation "We build in public…" carries video but is counted as a reply, an exception to the continuation rule. From week 4, a media reply to another account counts as a post (the @dsshk83 photo reply on 27 September), applied from here on.
