@@ -48,3 +48,19 @@ From Week 1 of this period, a thread continuation under one of Arrow's own posts
 Both lines cleared the floor in all four weeks. Weeks are cut on US Mountain time (UTC−6 in September), where the account is operated from. Posts include YouTube, Shorts and Reddit alongside X.
 
 Two classification notes. In week 3, the 15 September continuation "We build in public…" carries video but is counted as a reply, an exception to the continuation rule. From week 4, a media reply to another account counts as a post (the @dsshk83 photo reply on 27 September), applied from here on.
+
+## Period 4: 28 September to 25 October 2026
+
+| Week | Posts/clips (≥ 7) | Posts met? | Replies (≥ 15/wk) | Replies met? | Evidence |
+| ---- | ----------------: | :--------: | ----------------: | :----------: | -------- |
+| Wk 1 (28 Sep–4 Oct) | 7 | ✅ | 15 | ✅ | [wk1 links](period-4-wk1-evidence.md) |
+| Wk 2 (5–11 Oct) | 7 | ✅ | 18 | ✅ | [wk2 links](period-4-wk2-evidence.md) |
+| Wk 3 (12–18 Oct) | 7 | ✅ | 17 | ✅ | [wk3 links](period-4-wk3-evidence.md) |
+| Wk 4 (19–25 Oct) | 7 | ✅ | 15 | ✅ | [wk4 links](period-4-wk4-evidence.md) |
+
+**Released:** posts $3,136 / $3,136 · replies $1,344 / $1,344 · **period total $4,480 / $4,480**
+
+Both lines cleared the floor in all four weeks. Weeks are cut on US Mountain time (UTC−6), as in Period 3. Posts include YouTube, Shorts, Reddit and, from week 2, TikTok alongside X. TikTok uploads are evidenced by a [screenshot of the upload list](evidence/period-4-tiktok-uploads.png), and one YouTube comment in week 1 by its own [screenshot](evidence/period-4-wk1-youtube-comment.png).
+
+Weeks 2 and 3 were cross-checked against an X search of the account, which turned up one reply and one video post missing from the hand-collected list for week 2. The reply at 27 Sep 23:20 UTC belongs to Period 3 Week 4 and is not counted again in week 1.
+
